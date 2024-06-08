@@ -1,0 +1,203 @@
+
+.navbar-red .navbar-nav .nav-link {
+    color: white; /* Mengubah warna font menjadi putih */
+  }
+  
+  
+  .container {
+      background-size: cover; /* Menyesuaikan gambar latar belakang untuk menutupi seluruh area container */
+      background-position: center; /* Menyeting posisi gambar latar belakang di tengah */
+      width: 90%; /* Menyediakan lebar penuh untuk container */
+      height: 90vh; /* Menyesuaikan tinggi container sesuai tinggi layar (viewport height) */
+    }
+    
+    #Order {
+      background-image: url('assets/Background3.jpg');
+      background-size: cover; 
+      background-position: center; 
+      background-repeat: no-repeat; 
+      padding: 150px 0; 
+  }
+  
+  #Home .card-title,
+  #Home .card-text {
+      font-family: 'Georgia', serif; 
+  }
+  
+  #Order .card-title,
+  #Order .card-text {
+      font-family: 'Georgia', serif; 
+  }
+  
+  
+  .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 90vh; 
+  }
+  
+  #Home .card {
+    background-color: rgba(255, 255, 255, 0.669); 
+    color: rgb(0, 0, 0); 
+  }
+  
+  #Order .card {
+    background-color: rgba(255, 255, 255, 0.751); 
+    color: rgb(0, 0, 0); 
+  }
+  
+  
+  .card {
+      width: 20rem;
+      padding: 100px; 
+  }
+  
+  .card {
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 20px;
+  }
+  
+  .card-title {
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .card-text {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: rgb(0, 0, 0); 
+  }
+  
+  .form-label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .form-control {
+    border-radius: 8px;
+  }
+  
+  .btn {
+    border-radius: 8px;
+    margin-top: 20px;
+    transition: all 0.3s ease;
+  }
+  
+  .btn:hover {
+    transform: translateY(-3px);
+  }
+  
+  .btn-primary {
+    background-color: #1100ff; 
+  }
+  
+  .btn-secondary {
+    background-color: #bf0303;
+  }
+  
+  
+  .background-title {
+    color: rgb(255, 255, 255); 
+    font-family: "Times new roman", serif;
+  }
+  
+  #Order {
+    padding: 1000px 0; 
+  }
+  
+  
+  #Contact {
+    background-image: url('assets/FOOTERRRRRRRR.jpg');
+    background-size: cover; /* Untuk menyesuaikan gambar agar selalu menutupi area secara proporsional */
+    background-position: center; /* Untuk menempatkan gambar di tengah area */
+    background-repeat: no-repeat; /* Untuk menghindari pengulangan gambar */
+  }
+  
+  #Contact footer h5 {
+    color: #dba309; /* Ubah warna font menjadi putih */
+  }
+  
+  #Contact footer h6 {
+    color: #dbae09; /* Ubah warna font menjadi putih */
+  }
+  
+  #Contact footer p {
+    color: #2fe60e; /* Ubah warna font menjadi putih */
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #110303;
+}
+
+
+
+
+
+.content {
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 1px;
+    background-color: #101b1f;
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px rgba(10, 10, 10, 0.1);
+}
+
+.image-container {
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 300%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px rgba(10, 10, 10, 0.1);
+}
+
+
+header {
+    background-color: #87041e;
+    color: #d3b30f;
+    padding: 7px;
+    text-align: center;
+}
+
+.image-container {
+    margin-bottom: 50px;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.control-button {
+    position: absolute;
+    top: 310%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    background-color: #db2727;
+    color: #000000;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.control-button:hover {
+    background-color: #555;
+}
+
+
+
+
+  
